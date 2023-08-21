@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- Computer science student at Ainshams University &#127979;
+&#127979 Computer science student at Ainshams University ;
