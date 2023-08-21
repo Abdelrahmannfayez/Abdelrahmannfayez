@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Abdelrahman Fayez &#129305;</h1>
 </div>
-&#127979; Computer science student at Ainshams University 
+&#127979; Computer science student at Ainshams University <br>
 🔭 Interested in Software Development & machine learning
 
 
