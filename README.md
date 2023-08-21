@@ -1,4 +1,4 @@
-### Hi there 👋
+### Abdelrahman Fayez 	&#127853;
 
 <!--
 **Abdelrahmannfayez/Abdelrahmannfayez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+	&#127979; Computer science student at Ainshams University
