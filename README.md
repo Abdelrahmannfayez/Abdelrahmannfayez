@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-	&#127979; Computer science student at Ainshams University
+
+&#127979; Computer science student at Ainshams University
