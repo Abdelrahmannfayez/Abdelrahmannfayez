@@ -1,6 +1,6 @@
-<div align="center">
-  <h1>Abdelrahman Fayez </h1>
-</div>
+
+  <h2>Hi there, I'm Abdelrahman Fayez👋 </h2>
+
 &#127979; Computer science student at Ainshams University <br>
 🔭 Interested in Software Development & machine learning
 
