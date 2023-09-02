@@ -3,6 +3,8 @@
 
 &#127979; Computer science student at Ainshams University <br>
 🔭 Interested in Software Development & machine learning
+&#128231; You can reach out to me at abdelrahmannfayez@gmail.com whenever you like.
+
 
 
 <!--
